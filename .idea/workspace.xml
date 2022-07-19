@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b4ab3aab-106e-4739-9eac-bc2e91c80c24" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/project/SuspiciousReadingApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/project/model/Adaptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/project/model/Reading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/project/model/adaptorCSV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/project/model/adaptorXML.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/project/utils/ReadingUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/2016-readings.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/2016-readings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ReadingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/2016-readings.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/2016-readings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/583ef6329d89b.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/583ef6329e237.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/583ef6329e41b.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/allValidReadings.csv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2C0KXBDRTWAIU1wLIp9KYmEniZe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/yesica/Develop/suspicious-reading-detector/src/test/resources",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$/src/test/java" />
+      <recent name="$PROJECT_DIR$/src/main/resources/reading-files" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ReadingTest">
+    <configuration name="suspicious-reading-application" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.project.SuspiciousReadingApplication" />
+      <module name="suspicious-reading-detector" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="suspicious-reading-detector" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ReadingTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadingTest.multipleSuspiciousReadingsXML" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="suspicious-reading-detector" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ReadingTest" />
+      <option name="METHOD_NAME" value="multipleSuspiciousReadingsXML" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadingTest.testEndCommand" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="suspicious-reading-detector" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ReadingTest" />
+      <option name="METHOD_NAME" value="testEndCommand" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadingTest.testInvalidInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="suspicious-reading-detector" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ReadingTest" />
+      <option name="METHOD_NAME" value="testInvalidInput" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadingTest.testTableHeader" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="suspicious-reading-detector" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ReadingTest" />
+      <option name="METHOD_NAME" value="testTableHeader" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.suspicious-reading-application" />
+      <item itemvalue="JUnit.ReadingTest" />
+      <item itemvalue="JUnit.ReadingTest.multipleSuspiciousReadingsXML" />
+      <item itemvalue="JUnit.ReadingTest.testEndCommand" />
+      <item itemvalue="JUnit.ReadingTest.testInvalidInput" />
+      <item itemvalue="JUnit.ReadingTest.testTableHeader" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ReadingTest" />
+        <item itemvalue="JUnit.ReadingTest.multipleSuspiciousReadingsXML" />
+        <item itemvalue="JUnit.ReadingTest.testInvalidInput" />
+        <item itemvalue="JUnit.ReadingTest.testEndCommand" />
+        <item itemvalue="JUnit.ReadingTest.testTableHeader" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4ab3aab-106e-4739-9eac-bc2e91c80c24" name="Changes" comment="" />
+      <created>1657934098661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657934098661</updated>
+      <workItem from="1657934099943" duration="37800000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/suspicious_reading_detector$suspicious_reading_application.ic" NAME="suspicious-reading-application Coverage Results" MODIFIED="1658210470075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
